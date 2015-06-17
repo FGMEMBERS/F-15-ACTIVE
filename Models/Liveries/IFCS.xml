@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">F-15B IFCS Program</name>
+            <texture>Liveries/IFCS.png</texture>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
