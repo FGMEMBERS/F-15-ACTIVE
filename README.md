@@ -3,7 +3,7 @@ FGUK's McDonnell Douglas F-15 ACTIVE
 
 http://www.fguk.eu/index.php/hangar/viewdownload/8-military-jets/506-mcdonnell-douglas-f-15-active
 
-![Image FGUK](http://www.fguk.eu/images/jdownloads/screenshots/thumbnails/fgfs-screen-0214.png)
+![Image FGUK](http://www.fguk.eu/images/jdownloads/screenshots/fgfs-screen-0214.png)
 
 
 The McDonnell Douglas F-15 STOL/MTD (Short Takeoff and Landing/Maneuver Technology Demonstrator) is a modified F-15 Eagle. Developed as a technology demonstrator, the F-15 STOL/MTD carried out research for studying the effects of thrust vectoring and enhanced maneuverability. The aircraft used for the project was pre-production TF-15A (F-15B) No. 1 (USAF S/N 71-0290), the first two-seat F-15 Eagle built by McDonnell Douglas (out of 2 prototype), the sixth F-15 off the assembly line, and was the oldest F-15 flying up to its retirement. It was also used as the avionics testbed for the F-15E Strike Eagle program. The plane was on loan to NASA from the United States Air Force.
