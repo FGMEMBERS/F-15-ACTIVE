@@ -11,7 +11,7 @@ The McDonnell Douglas F-15 STOL/MTD (Short Takeoff and Landing/Maneuver Technolo
 This same aircraft would later be used in the F-15 ACTIVE (Advanced Control Technology for Integrated Vehicles) from 1993–1999, and later in the Intelligent Flight Control System programs from 1999 to 2008. With the help of thrust vectoring nozzles, this aircraft can perform the famous Pugachev's Cobra maneuve
 
  
-This aircraft requires the FGUK weapons package available HERE
+This aircraft requires the FGUK weapons package available <a href="http://www.fguk.eu/index.php/hangar/viewdownload/11-other-objects-and-vehicles/163-fguk-weapons-package">HERE</a>
  
 
 RELEASE NOTES:-
